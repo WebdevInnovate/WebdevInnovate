@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebdevInnovate&layout=compact&theme=" alt=WebdevInnovate />
+<img align="left" height="180em" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebdevInnovate&layout=compact&theme=" alt=WebdevInnovate />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=WebdevInnovate&show_icons=true&locale=en&theme=" alt="WebdevInnovate" /></p>
 
